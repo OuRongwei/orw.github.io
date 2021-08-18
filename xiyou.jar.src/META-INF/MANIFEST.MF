@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+MIDlet-Vendor: 星辰
+Ant-Version: Apache Ant 1.7.0
+MIDlet-Version: 1.0.1
+unionID: 101
+MicroEdition-Configuration: CLDC-1.0
+MIDlet-1: 泡泡西游,icon.png,engine.Ancient
+Created-By: 10.0-b19 (Sun Microsystems Inc.)
+sdk: 2
+MIDlet-Icon: icon.png
+MIDlet-Name: xiyou
+MicroEdition-Profile: MIDP-2.0
+
